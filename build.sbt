@@ -7,7 +7,7 @@ version := "0.7.3"
 scalaVersion := "2.11.11"
 
 libraryDependencies ++= Seq(
-  "com.typesafe.play" %% "play"                    % "2.6.7",
+  "com.typesafe.play" %% "play"                    % "2.7.9",
   "com.typesafe.play" %% "play-json"               % "2.6.7",
   "com.typesafe.play" %% "play-slick"              % "3.0.1",
   "com.typesafe.play" %% "play-slick-evolutions"   % "3.0.1",
